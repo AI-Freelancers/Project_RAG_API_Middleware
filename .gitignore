@@ -1,2 +1,3 @@
 app/config.ini 
 llms-api 
+app/__pycache__
